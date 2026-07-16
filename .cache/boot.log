@@ -1,0 +1,24 @@
+{"level":"info","time":"2026-07-16T12:48:00Z","message":"Thank you for trying Cloudflare Tunnel. Doing so, without a Cloudflare account, is a quick way to experiment and try it out. However, be aware that these account-less Tunnels have no uptime guarantee. If you intend to use Tunnels in production you should use a pre-created named tunnel by following: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps"}
+{"level":"info","time":"2026-07-16T12:48:00Z","message":"Requesting new quick Tunnel on trycloudflare.com..."}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"+--------------------------------------------------------------------------------------------+"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"|  Your quick Tunnel has been created! Visit it at (it may take some time to be reachable):  |"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"|  https://marriage-tumor-sri-garden.trycloudflare.com                                       |"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"+--------------------------------------------------------------------------------------------+"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"Cannot determine default configuration path. No file [config.yml config.yaml] in [~/.cloudflared ~/.cloudflare-warp ~/cloudflare-warp /etc/cloudflared /usr/local/etc/cloudflared]"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"Version 2023.7.1"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"GOOS: linux, GOVersion: go1.19.11, GoArch: amd64"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"Settings: map[edge-ip-version:auto ha-connections:1 logfile:./.cache/boot.log loglevel:info no-autoupdate:true p:http2 protocol:http2 url:http://localhost:8001]"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"Generated Connector ID: 359454f1-ed29-41a3-b248-2e2a90793481"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"Initial protocol http2"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"ICMP proxy will use 172.20.0.86 as source for IPv4"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"ICMP proxy will use ::1 in zone lo as source for IPv6"}
+{"level":"info","time":"2026-07-16T12:48:03Z","message":"Starting metrics server on 127.0.0.1:35087/metrics"}
+{"level":"warn","time":"2026-07-16T12:48:03Z","message":"Your version 2023.7.1 is outdated. We recommend upgrading it to 2026.7.2"}
+{"level":"info","event":0,"connection":"c2829dee-ed60-4415-91a1-496217e2df49","connIndex":0,"location":"ewr08","ip":"198.41.200.193","protocol":"http2","time":"2026-07-16T12:48:04Z","message":"Registered tunnel connection"}
+{"level":"info","time":"2026-07-16T12:48:47Z","message":"Initiating graceful shutdown due to signal interrupt ..."}
+{"level":"info","event":0,"connIndex":0,"ip":"198.41.200.193","time":"2026-07-16T12:48:47Z","message":"Unregistered tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.200.193","connIndex":0,"time":"2026-07-16T12:48:47Z","message":"Retrying connection in up to 1s"}
+{"level":"error","time":"2026-07-16T12:48:47Z","message":"no more connections active and exiting"}
+{"level":"info","time":"2026-07-16T12:48:47Z","message":"Tunnel server stopped"}
+{"level":"error","error":"context canceled","time":"2026-07-16T12:48:47Z","message":"icmp router terminated"}
+{"level":"info","time":"2026-07-16T12:48:47Z","message":"Metrics server stopped"}
